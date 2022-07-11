@@ -1,4 +1,4 @@
-# bootstrap-boilerplate-07-11
+# collab-practice-PEP
 
 This is my repository for my HTML/CSS Style Guide.
 
